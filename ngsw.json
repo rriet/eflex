@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1732495654282,
+  "timestamp": 1732574255725,
   "index": "https://rriet.github.io/eflex/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://rriet.github.io/eflex/favicon.ico",
         "https://rriet.github.io/eflex/index.html",
-        "https://rriet.github.io/eflex/main.4340e436d85dfeac.js",
+        "https://rriet.github.io/eflex/main.f0a6e18d5b11a9fb.js",
         "https://rriet.github.io/eflex/manifest.webmanifest",
         "https://rriet.github.io/eflex/polyfills.7076518a9af696c7.js",
         "https://rriet.github.io/eflex/runtime.71c359ab2b6e7ee9.js",
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://rriet.github.io/eflex/assets/airports.json",
         "https://rriet.github.io/eflex/assets/icons/icon-128x128.png",
         "https://rriet.github.io/eflex/assets/icons/icon-144x144.png",
         "https://rriet.github.io/eflex/assets/icons/icon-152x152.png",
@@ -74,6 +75,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://rriet.github.io/eflex/assets/airports.json": "21998144bc55ebc62402f52a5721d932f7545118",
     "https://rriet.github.io/eflex/assets/icons/icon-128x128.png": "89dbfffe808de42b57739fcb1deeb1a8bf4e637f",
     "https://rriet.github.io/eflex/assets/icons/icon-144x144.png": "1d17b85394a0ca2a66866c813d6f920bb36bb97d",
     "https://rriet.github.io/eflex/assets/icons/icon-152x152.png": "d54a40de3bd0d2cc4e9e74c87b7331ccf3700bd4",
@@ -114,8 +116,8 @@
     "https://rriet.github.io/eflex/assets/js/pdf.worker.js.map": "e38da7ce86d05d4068f4c1ebf59ebe6d9b25f880",
     "https://rriet.github.io/eflex/assets/js/pdf.worker.min.js": "f4bd88c4ec12725ebc546666668e322924985a61",
     "https://rriet.github.io/eflex/favicon.ico": "bfbb080c429e9378d25dbe75f80065cca3dc8bde",
-    "https://rriet.github.io/eflex/index.html": "b33176061be346d8693d138c3976a2d3e37e22f1",
-    "https://rriet.github.io/eflex/main.4340e436d85dfeac.js": "fa88fa402e0729459841baab20462ff1127986b3",
+    "https://rriet.github.io/eflex/index.html": "b334175034e2cb585411a4302b75692e377b6329",
+    "https://rriet.github.io/eflex/main.f0a6e18d5b11a9fb.js": "15cbf750f95b6f0aede024ec8b8fb3c1a2ee9fd5",
     "https://rriet.github.io/eflex/manifest.webmanifest": "fb432621475236da96d9ed671edeac4374b7c330",
     "https://rriet.github.io/eflex/polyfills.7076518a9af696c7.js": "83655a6167b66fc35ed9612681459379f3969f2f",
     "https://rriet.github.io/eflex/runtime.71c359ab2b6e7ee9.js": "08e5339830075b575709d7fd30803ec59c7df848",
